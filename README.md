@@ -58,7 +58,7 @@ For a detailed introduction, full list of features and architecture overview ple
 - [Contributors](#contributors)
 - [Licensing](#licensing)
 
-## Setup
+## Setup 
 
 > You can find some less common installation variations in
 > [the _Running OWASP Juice Shop_ documentation](https://pwning.owasp-juice.shop/part1/running.html).
@@ -89,6 +89,7 @@ For a detailed introduction, full list of features and architecture overview ple
 4. Run `npm install` (only has to be done before first start or when you change the source code)
 5. Run `npm start`
 6. Browse to <http://localhost:3000>
+7. Profit?
 
 ### Packaged Distributions
 
